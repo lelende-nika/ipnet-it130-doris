@@ -1,0 +1,11 @@
+h1, h3 { color: red; background-color: black; }
+* { color: green; }
+.fondJaune { background-color: yellow; }
+h2.bleu { color: blue; }
+.fondGris { background-color: gray; }
+#menu { background-color: red; }
+[id] { color: black; background-color: yellow; }
+h1[title] { color: blue; }
+h1:not([title]) { color: black; }
+body > p { color: gray; }
+div p { color: brown; }
